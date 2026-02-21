@@ -1,4 +1,4 @@
-## Emotion Detection from Speech using Edge AI
+# Emotion Detection from Speech using Edge AI
 
 This project detects human emotions from speech using deep learning and deploys a lightweight TensorFlow Lite model for IoT edge devices such as Raspberry Pi.
 
@@ -8,13 +8,10 @@ Speech emotion recognition systems typically rely on cloud processing, which int
 
 ## Methodology
 
-Audio preprocessing using MFCC feature extraction
-
-CNN-based emotion classification
-
-Model optimization using TensorFlow Lite
-
-Latency comparison between normal and edge inference
+- Audio preprocessing using MFCC feature extraction  
+- CNN-based emotion classification  
+- Model optimization using TensorFlow Lite  
+- Latency comparison between normal and edge inference
 
 ## Dataset
 
@@ -28,7 +25,7 @@ https://zenodo.org/record/1188976
 
 Test accuracy: **~59%**
 
-Latency reduced from **~137 ms to ~7 ms** after TFLite optimization
+Latency reduced from **~137 ms → ~7 ms** after TFLite optimization
 
 Edge inference enables offline, privacy-preserving emotion detection
 
@@ -46,6 +43,7 @@ models → trained model information
 tflite → optimized edge model
 
 results → evaluation screenshots
+This demonstrates feasibility of real-time emotion detection on edge devices.
 
 dataset → dataset information
 
