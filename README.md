@@ -29,7 +29,7 @@ Latency reduced from **~137 ms → ~7 ms** after TFLite optimization
 
 Edge inference enables offline, privacy-preserving emotion detection
 
-System workflow is illustrated below:
+**System workflow is illustrated below:**
 ## Pipeline
 
 Audio → MFCC → CNN Model → TensorFlow Lite → Edge Device → Emotion Output
@@ -60,4 +60,4 @@ Mobile app deployment
 
 Author: Bhumi Shah
 
-BTech Computer Science 3rd year-(Minor Project)
+BTech Computer Science-3rd year(Minor Project)
