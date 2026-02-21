@@ -60,4 +60,5 @@ Larger multi-speaker datasets
 Mobile app deployment
 
 Author: Bhumi Shah
+
 BTech Computer Science 3rd year-(Minor Project)
