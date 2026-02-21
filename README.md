@@ -26,9 +26,9 @@ https://zenodo.org/record/1188976
 
 ## Results
 
-Test accuracy: ~59%
+Test accuracy: **~59%**
 
-Latency reduced from ~137 ms to ~7 ms after TFLite optimization
+Latency reduced from **~137 ms to ~7 ms** after TFLite optimization
 
 Edge inference enables offline, privacy-preserving emotion detection
 
