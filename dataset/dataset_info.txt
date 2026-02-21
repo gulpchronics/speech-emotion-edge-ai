@@ -1,0 +1,7 @@
+Dataset used: RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
+
+The dataset is not included in this repository due to size constraints.
+It can be downloaded from:
+https://zenodo.org/record/1188976
+
+Only speech audio subset was used for training.
