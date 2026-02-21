@@ -43,6 +43,7 @@ models → trained model information
 tflite → optimized edge model
 
 results → evaluation screenshots
+
 This demonstrates feasibility of real-time emotion detection on edge devices.
 
 dataset → dataset information
