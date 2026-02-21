@@ -1,0 +1,2 @@
+Trained model (.h5) not uploaded due to GitHub size limits.
+TensorFlow Lite model provided for edge inference.
