@@ -23,7 +23,7 @@ https://zenodo.org/record/1188976
 
 ## Results
 
-This demonstrates feasibility of real-time emotion detection on edge devices.
+This demonstrates feasibility of real-time emotion detection on resource-constrained edge devices.
 
 Test accuracy: **~59%**
 
